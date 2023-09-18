@@ -1,0 +1,30 @@
+G:\My Drive\ADS - ULBRA\2° Semestre\Laboratório de Programação - Quinta\AULA 08 LP - SIMULADO E REVISAO\ex\obj\Debug\net7.0\ex.csproj.AssemblyReference.cache
+G:\My Drive\ADS - ULBRA\2° Semestre\Laboratório de Programação - Quinta\AULA 08 LP - SIMULADO E REVISAO\ex\obj\Debug\net7.0\ex.GeneratedMSBuildEditorConfig.editorconfig
+G:\My Drive\ADS - ULBRA\2° Semestre\Laboratório de Programação - Quinta\AULA 08 LP - SIMULADO E REVISAO\ex\obj\Debug\net7.0\ex.AssemblyInfoInputs.cache
+G:\My Drive\ADS - ULBRA\2° Semestre\Laboratório de Programação - Quinta\AULA 08 LP - SIMULADO E REVISAO\ex\obj\Debug\net7.0\ex.AssemblyInfo.cs
+G:\My Drive\ADS - ULBRA\2° Semestre\Laboratório de Programação - Quinta\AULA 08 LP - SIMULADO E REVISAO\ex\obj\Debug\net7.0\ex.csproj.CoreCompileInputs.cache
+G:\My Drive\ADS - ULBRA\2° Semestre\Laboratório de Programação - Quinta\AULA 08 LP - SIMULADO E REVISAO\ex\bin\Debug\net7.0\ex.exe
+G:\My Drive\ADS - ULBRA\2° Semestre\Laboratório de Programação - Quinta\AULA 08 LP - SIMULADO E REVISAO\ex\bin\Debug\net7.0\ex.deps.json
+G:\My Drive\ADS - ULBRA\2° Semestre\Laboratório de Programação - Quinta\AULA 08 LP - SIMULADO E REVISAO\ex\bin\Debug\net7.0\ex.runtimeconfig.json
+G:\My Drive\ADS - ULBRA\2° Semestre\Laboratório de Programação - Quinta\AULA 08 LP - SIMULADO E REVISAO\ex\bin\Debug\net7.0\ex.dll
+G:\My Drive\ADS - ULBRA\2° Semestre\Laboratório de Programação - Quinta\AULA 08 LP - SIMULADO E REVISAO\ex\bin\Debug\net7.0\ex.pdb
+G:\My Drive\ADS - ULBRA\2° Semestre\Laboratório de Programação - Quinta\AULA 08 LP - SIMULADO E REVISAO\ex\obj\Debug\net7.0\ex.dll
+G:\My Drive\ADS - ULBRA\2° Semestre\Laboratório de Programação - Quinta\AULA 08 LP - SIMULADO E REVISAO\ex\obj\Debug\net7.0\refint\ex.dll
+G:\My Drive\ADS - ULBRA\2° Semestre\Laboratório de Programação - Quinta\AULA 08 LP - SIMULADO E REVISAO\ex\obj\Debug\net7.0\ex.pdb
+G:\My Drive\ADS - ULBRA\2° Semestre\Laboratório de Programação - Quinta\AULA 08 LP - SIMULADO E REVISAO\ex\obj\Debug\net7.0\ex.genruntimeconfig.cache
+G:\My Drive\ADS - ULBRA\2° Semestre\Laboratório de Programação - Quinta\AULA 08 LP - SIMULADO E REVISAO\ex\obj\Debug\net7.0\ref\ex.dll
+G:\My Drive\ADS - ULBRA\2° Semestre\Laboratório de Programação - Quinta\ex1\bin\Debug\net7.0\ex.exe
+G:\My Drive\ADS - ULBRA\2° Semestre\Laboratório de Programação - Quinta\ex1\bin\Debug\net7.0\ex.deps.json
+G:\My Drive\ADS - ULBRA\2° Semestre\Laboratório de Programação - Quinta\ex1\bin\Debug\net7.0\ex.runtimeconfig.json
+G:\My Drive\ADS - ULBRA\2° Semestre\Laboratório de Programação - Quinta\ex1\bin\Debug\net7.0\ex.dll
+G:\My Drive\ADS - ULBRA\2° Semestre\Laboratório de Programação - Quinta\ex1\bin\Debug\net7.0\ex.pdb
+G:\My Drive\ADS - ULBRA\2° Semestre\Laboratório de Programação - Quinta\ex1\obj\Debug\net7.0\ex.csproj.AssemblyReference.cache
+G:\My Drive\ADS - ULBRA\2° Semestre\Laboratório de Programação - Quinta\ex1\obj\Debug\net7.0\ex.GeneratedMSBuildEditorConfig.editorconfig
+G:\My Drive\ADS - ULBRA\2° Semestre\Laboratório de Programação - Quinta\ex1\obj\Debug\net7.0\ex.AssemblyInfoInputs.cache
+G:\My Drive\ADS - ULBRA\2° Semestre\Laboratório de Programação - Quinta\ex1\obj\Debug\net7.0\ex.AssemblyInfo.cs
+G:\My Drive\ADS - ULBRA\2° Semestre\Laboratório de Programação - Quinta\ex1\obj\Debug\net7.0\ex.csproj.CoreCompileInputs.cache
+G:\My Drive\ADS - ULBRA\2° Semestre\Laboratório de Programação - Quinta\ex1\obj\Debug\net7.0\ex.dll
+G:\My Drive\ADS - ULBRA\2° Semestre\Laboratório de Programação - Quinta\ex1\obj\Debug\net7.0\refint\ex.dll
+G:\My Drive\ADS - ULBRA\2° Semestre\Laboratório de Programação - Quinta\ex1\obj\Debug\net7.0\ex.pdb
+G:\My Drive\ADS - ULBRA\2° Semestre\Laboratório de Programação - Quinta\ex1\obj\Debug\net7.0\ex.genruntimeconfig.cache
+G:\My Drive\ADS - ULBRA\2° Semestre\Laboratório de Programação - Quinta\ex1\obj\Debug\net7.0\ref\ex.dll
